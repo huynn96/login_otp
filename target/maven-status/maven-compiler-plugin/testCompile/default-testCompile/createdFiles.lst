@@ -1,0 +1,9 @@
+screenplay\ui\LoginPage.class
+testmaster\steps\Hooks.class
+screenplay\tasks\Login.class
+screenplay\questions\WebPageTitle.class
+screenplay\tasks\Login$LoginBuilder.class
+testmaster\steps\DefinitionSteps.class
+screenplay\questions\Verification.class
+common\Utility.class
+testmaster\DefinitionTestSuite.class
